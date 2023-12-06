@@ -1,0 +1,10 @@
+.list-unstyled li .text-white{
+    text-decoration: none;
+}
+.my-name {
+    text-decoration: none;
+}
+.my-name::before{
+    content: "_";
+    color: black ;
+}
